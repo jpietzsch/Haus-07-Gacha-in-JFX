@@ -1,6 +1,4 @@
-# Haus 07 Gacha JavaFX
+# Sudoku JavaFX
 
-We are creating a fun project in JavaFX which is supposed to reference our coworkers in a gacha styled game.
-Daily challenges would be for example filling in the ANW or cleaning the dishes.
-
-Not sure what else to say in here
+Simple Sudoku which i created during IT training, its using JavaFX for its visual design.
+Didnt expect that it was that hard generating a logical Sudoku not gonna lie
